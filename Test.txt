@@ -1,5 +1,5 @@
 Line 1
 Line 2
-Thi line is a conflict
+This line is conflicted
 Line 4
 Line 5
