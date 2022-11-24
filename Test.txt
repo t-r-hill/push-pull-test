@@ -1,0 +1,5 @@
+Line 1
+Line 2
+Thi line is a conflict
+Line 4
+Line 5
