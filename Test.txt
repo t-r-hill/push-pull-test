@@ -1,5 +1,9 @@
 Line 1
 Line 2
+<<<<<<< HEAD
 This line is conflicted
+=======
+This line has been edited
+>>>>>>> 5e96a04a020339f518fedee505ae06b4709cc79d
 Line 4
 Line 5
